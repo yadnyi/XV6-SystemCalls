@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+}
+
+.navbar{
+	margin:5px;
+	background-color: #404040;
+	min-height: 20px;
+}
+
+.btn{
+	margin: 3px;
+
+}
+
+.dropdown button{
+	margin-right: 20px;
+	margin-left: 10px;
+
+}
+
+.btn dropdown-toggle{
+	margin-left: 5px;
+}
+
+#dropdown{
+	width: 50px;
+}
+
+#btn-group{
+	margin-left: 7.3px;
+	margin-right : 20px;
+
+}
+
+#nav-gradient{
+	background-image: linear-gradient( black , grey);
+}
